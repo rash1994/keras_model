@@ -1,0 +1,42 @@
+[
+{
+	"id": 1,
+	"name": "T-shirt/top"
+},
+{
+	"id": 2,
+	"name": "Trouser"
+},
+{
+	"id": 3,
+	"name": "Pullover"
+},
+{
+	"id":4 ,
+	"name": "Dress"
+},
+{
+	"id":5,
+	"name": "Coat"
+},
+{
+	"id":6 ,
+	"name": "Sandal"
+},
+{
+	"id":7 ,
+	"name": "Shirt"
+},
+{
+	"id":8 ,
+	"name": "Sneaker"
+},
+{
+	"id":9 ,
+	"name": "Bag"
+},
+{
+	"id":10 ,
+	"name": "Ankle boot"
+}
+]
